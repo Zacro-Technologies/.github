@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="../../ai/assets/org-logo.svg" width="220" alt="Zacro Technologies logo">
-  <img src="../../ai/assets/network-logo.svg" width="220" alt="Zacro Network logo">
+  <img src="../assets/org-logo.svg" width="220" alt="Zacro Technologies logo">
+  <img src="../assets/network-logo.svg" width="220" alt="Zacro Network logo">
 </p>
 
 <h1 align="center">Zacro Technologies</h1>
