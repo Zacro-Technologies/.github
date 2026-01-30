@@ -5,7 +5,7 @@
 <h1 align="center">Zacro Technologies</h1>
 <p align="center"><em>Building the foundations for a self-sustaining community network, starting with AI.</em></p>
 <p align="center">
-  <a href="https://zacro.tech">zacro.tech</a> • <a href="https://zacro.tech/ai"><img src="../assets/network-logo.svg" width="16" height="16" alt="" style="vertical-align: -5px;" /> Zacro AI</a>
+  <a href="https://zacro.tech">zacro.tech</a> • <a href="https://zacro.tech/ai"><img src="../assets/network-logo.svg" width="16" height="16" alt="" style="vertical-align: -3px;" /> Zacro AI</a>
 </p>
 
 ## :compass: Mission
