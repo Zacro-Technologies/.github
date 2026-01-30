@@ -10,14 +10,17 @@
 </p>
 
 ## :compass: Mission
+
 Make advanced technology feel human: open, accountable, and accessible.
 
 ## :sparkles: Focus
+
 - :robot: Responsible AI systems
 - :balance_scale: Governance and oversight tooling
 - :link: Open standards and shared infrastructure
 
 ## :shield: Principles
+
 - Fairness is a feature
 - Transparency by default
 - Security over hype
@@ -25,22 +28,32 @@ Make advanced technology feel human: open, accountable, and accessible.
 - Minimalism in design and code
 
 ## :people_holding_hands: Community
+
 We welcome builders, researchers, designers, and advocates.
+
 - Propose ideas and experiments
 - Contribute to docs and code
 - Join governance discussions
 
 ## :bar_chart: Community Loop
+
 ```mermaid
 flowchart LR
   Ideas --> Review --> Build --> Release --> Stewardship --> Ideas
 ```
 
+## :package: Repositories
+
+- https://github.com/Zacro-Technologies/zacro.tech
+- https://github.com/Zacro-Technologies
+
 ## :triangular_ruler: Signal Board
-| Now | Next | Later |
-| --- | --- | --- |
-| Governance clarity | Open tooling | Shared standards |
+
+| Now                  | Next             | Later                 |
+| -------------------- | ---------------- | --------------------- |
+| Governance clarity   | Open tooling     | Shared standards      |
 | Documentation polish | Community pilots | Long-term stewardship |
 
 ## :scroll: Governance
+
 Read the governance overview on the Zacro AI site.
